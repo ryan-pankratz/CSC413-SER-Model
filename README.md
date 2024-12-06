@@ -10,3 +10,5 @@ Our data splitting was done in the CSC-413_Data_Split.ipynb, here, we also used 
 into a .wav file and in 16 KHz.
 
 Our Modelling was done in CSC-413_Project.ipynb, here we also did the feature extraction from the .wav files, and also modelled both our model with and without dropout layers to test if the layer helped.
+
+Unfortunately, we could not upload the extracted feature files as they are too large, so you will have to run preprocessing yourself!
